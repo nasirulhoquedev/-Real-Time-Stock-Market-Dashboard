@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Stock Market Dashboard",
+  "description": "Live stock market tracking dashboard with interactive candlestick charts, technical indicators (RSI, MACD, Bollinger Bands, SMA/EMA), and complete Python Streamlit project files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
