@@ -12,7 +12,7 @@ The **Real-Time Stock Market Dashboard** is an interactive web application desig
 
 ## 🛠️ Tech Stack
 * **Language:** Python
-* **Web Framework:** Flask / Streamlit *(তোমার যেটা ব্যবহার করেছো সেটা রাখবে)*
+* **Web Framework:** Flask / Streamlit
 * **Data API:** Yahoo Finance (`yfinance`) / Alpha Vantage / Finnhub
 * **Data Visualization:** Plotly / Chart.js / Matplotlib
 * **Data Handling:** Pandas & NumPy
